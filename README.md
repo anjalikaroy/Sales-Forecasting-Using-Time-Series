@@ -39,9 +39,3 @@ To build a time series forecasting model that can accurately predict future sale
 Developed a predictive model capable of forecasting sales, enabling better planning and data-driven business decisions.
 
 
-## Project Structure
-
-```
-sales-forecasting-time-series.ipynb
-README.md
-```
