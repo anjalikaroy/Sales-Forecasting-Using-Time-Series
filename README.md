@@ -102,6 +102,7 @@ This project can help retail businesses:
 
 
 ## Project Structure
+```text
 sales-forecasting-time-series.ipynb
 README.md
 train.csv
